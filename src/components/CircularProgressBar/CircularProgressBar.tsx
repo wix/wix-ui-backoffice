@@ -2,7 +2,7 @@ import * as React from 'react';
 import {
   CircularProgressBar as CoreCircularProgressBar,
   CircularProgressBarProps as CoreCircularProgressBarProps
-} from 'wix-ui-core/circular-progress-bar';
+} from 'wix-ui-core/dist/src/components/circular-progress-bar';
 import CircleLoaderCheck from 'wix-ui-icons-common/system/CircleLoaderCheck';
 import CircleLoaderCheckSmall from 'wix-ui-icons-common/system/CircleLoaderCheckSmall';
 import FormFieldError from 'wix-ui-icons-common/system/FormFieldError';
