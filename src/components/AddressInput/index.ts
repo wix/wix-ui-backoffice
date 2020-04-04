@@ -1,1 +1,1 @@
-export {AddressInput} from './AddressInput';
+export { AddressInput } from './AddressInput';

@@ -1,1 +1,1 @@
-export {LabelWithOptions} from './LabelWithOptions';
+export { LabelWithOptions } from './LabelWithOptions';

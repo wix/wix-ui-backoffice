@@ -1,1 +1,1 @@
-export {VBox, VBoxProps} from './VBox';
+export { VBox, VBoxProps } from './VBox';

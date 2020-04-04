@@ -1,1 +1,1 @@
-export {Text, TextProps} from './Text';
+export { Text, TextProps } from './Text';

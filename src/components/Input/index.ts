@@ -1,2 +1,2 @@
-export {Input, InputProps} from './Input';
-export {getInputSuffix} from './InputSuffixes';
+export { Input, InputProps } from './Input';
+export { getInputSuffix } from './InputSuffixes';
